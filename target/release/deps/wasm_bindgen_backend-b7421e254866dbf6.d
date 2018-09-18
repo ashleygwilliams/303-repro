@@ -1,0 +1,10 @@
+/Users/ag_dubs/rust/rustwasm/my-wasm-app/target/release/deps/libwasm_bindgen_backend-b7421e254866dbf6.rlib: /Users/ag_dubs/.cargo/registry/src/github.com-1ecc6299db9ec823/wasm-bindgen-backend-0.2.21/src/lib.rs /Users/ag_dubs/.cargo/registry/src/github.com-1ecc6299db9ec823/wasm-bindgen-backend-0.2.21/src/error.rs /Users/ag_dubs/.cargo/registry/src/github.com-1ecc6299db9ec823/wasm-bindgen-backend-0.2.21/src/ast.rs /Users/ag_dubs/.cargo/registry/src/github.com-1ecc6299db9ec823/wasm-bindgen-backend-0.2.21/src/codegen.rs /Users/ag_dubs/.cargo/registry/src/github.com-1ecc6299db9ec823/wasm-bindgen-backend-0.2.21/src/defined.rs /Users/ag_dubs/.cargo/registry/src/github.com-1ecc6299db9ec823/wasm-bindgen-backend-0.2.21/src/util.rs
+
+/Users/ag_dubs/rust/rustwasm/my-wasm-app/target/release/deps/wasm_bindgen_backend-b7421e254866dbf6.d: /Users/ag_dubs/.cargo/registry/src/github.com-1ecc6299db9ec823/wasm-bindgen-backend-0.2.21/src/lib.rs /Users/ag_dubs/.cargo/registry/src/github.com-1ecc6299db9ec823/wasm-bindgen-backend-0.2.21/src/error.rs /Users/ag_dubs/.cargo/registry/src/github.com-1ecc6299db9ec823/wasm-bindgen-backend-0.2.21/src/ast.rs /Users/ag_dubs/.cargo/registry/src/github.com-1ecc6299db9ec823/wasm-bindgen-backend-0.2.21/src/codegen.rs /Users/ag_dubs/.cargo/registry/src/github.com-1ecc6299db9ec823/wasm-bindgen-backend-0.2.21/src/defined.rs /Users/ag_dubs/.cargo/registry/src/github.com-1ecc6299db9ec823/wasm-bindgen-backend-0.2.21/src/util.rs
+
+/Users/ag_dubs/.cargo/registry/src/github.com-1ecc6299db9ec823/wasm-bindgen-backend-0.2.21/src/lib.rs:
+/Users/ag_dubs/.cargo/registry/src/github.com-1ecc6299db9ec823/wasm-bindgen-backend-0.2.21/src/error.rs:
+/Users/ag_dubs/.cargo/registry/src/github.com-1ecc6299db9ec823/wasm-bindgen-backend-0.2.21/src/ast.rs:
+/Users/ag_dubs/.cargo/registry/src/github.com-1ecc6299db9ec823/wasm-bindgen-backend-0.2.21/src/codegen.rs:
+/Users/ag_dubs/.cargo/registry/src/github.com-1ecc6299db9ec823/wasm-bindgen-backend-0.2.21/src/defined.rs:
+/Users/ag_dubs/.cargo/registry/src/github.com-1ecc6299db9ec823/wasm-bindgen-backend-0.2.21/src/util.rs:
